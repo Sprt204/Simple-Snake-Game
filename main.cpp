@@ -1,8 +1,3 @@
-/*  This is just a prototype and must be refactored
-*
-*   Written by Sprt204
-*/
-
 #include <iostream>
 #include <vector>
 #include <random>
